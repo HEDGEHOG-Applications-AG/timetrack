@@ -1,4 +1,4 @@
-package timertrack
+package timetrack
 
 import (
 	log "github.com/chris-dot-exe/AwesomeLog"
